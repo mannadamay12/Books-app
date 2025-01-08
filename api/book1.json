@@ -1,0 +1,77 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "AV9x8XakdV0C",
+      "etag": "r2Kf/+klr2I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AV9x8XakdV0C",
+      "volumeInfo": {
+        "title": "Thinking, Fast and Slow",
+        "authors": ["Daniel Kahneman"],
+        "publisher": "Penguin UK",
+        "publishedDate": "2012",
+        "description": "In this work the author, a recipient of the Nobel Prize in Economic Sciences for his seminal work in psychology that challenged the rational model of judgment and decision making, has brought together his many years of research and thinking in one book. He explains the two systems that drive the way we think. System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical. He exposes the extraordinary capabilities, and also the faults and biases, of fast thinking, and reveals the pervasive influence of intuitive impressions on our thoughts and behavior. He reveals where we can and cannot trust our intuitions and how we can tap into the benefits of slow thinking. He offers practical and enlightening insights into how choices are made in both our business and our personal lives, and how we can use different techniques to guard against the mental glitches that often get us into trouble. This author's work has transformed cognitive psychology and launched the new fields of behavioral economics and happiness studies. In this book, he takes us on a tour of the mind and explains the two systems that drive the way we think and the way we make choices.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780141033570"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0141033576"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 752,
+        "printType": "BOOK",
+        "categories": ["Psychology"],
+        "averageRating": 4,
+        "ratingsCount": 3937,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AV9x8XakdV0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AV9x8XakdV0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=AV9x8XakdV0C&dq=isbn:9780141033570&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.de/books?id=AV9x8XakdV0C&dq=isbn:9780141033570&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thinking_Fast_and_Slow.html?hl=&id=AV9x8XakdV0C"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AV9x8XakdV0C&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this work the author, a recipient of the Nobel Prize in Economic Sciences for his seminal work in psychology that challenged the rational model of judgment and decision making, has brought together his many years of research and thinking ..."
+      }
+    }
+  ]
+}

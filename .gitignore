@@ -1,0 +1,65 @@
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+.babelrc
+
+# Expo
+.expo/
+.expo-shared/
+web-build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Firebase
+firebase-debug.log
+google-services.json
+GoogleService-Info.plist
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+.env.*.local
+firebaseConfig.ts
+
+# Build artifacts
+*.apk
+*.aab
+*.ipa
+dist/
+build/
+
+# CocoaPods (iOS dependencies)
+ios/Pods/
+ios/build/
+
+# Gradle (Android dependencies)
+android/.gradle/
+android/build/
+android/app/build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# IDE
+.idea/
+.vscode/
+.history/
+
+# Prettier/ESLint
+.cache/

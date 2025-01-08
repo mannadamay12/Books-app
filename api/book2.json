@@ -1,0 +1,78 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "5ZzfjwEACAAJ",
+      "etag": "Nd6KbVNatmE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5ZzfjwEACAAJ",
+      "volumeInfo": {
+        "title": "Becoming Steve Jobs",
+        "subtitle": "The Evolution of a Reckless Upstart Into a Visionary Leader",
+        "authors": ["Brent Schlender", "Rick Tetzeli"],
+        "publisher": "Crown Business",
+        "publishedDate": "2015",
+        "description": "Based on the highly popular 2012 cover story in Fast Company, an award-winning journalist and a veteran editor present a behind-the-scenes account of how Steve Jobs became the most famous and visionary CEO in history through interviews with people who knew Jobs best.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0385347405"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780385347402"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 447,
+        "printType": "BOOK",
+        "categories": ["Biography & Autobiography"],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5ZzfjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5ZzfjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.de/books?id=5ZzfjwEACAAJ&dq=isbn:9780385347402&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.de/books?id=5ZzfjwEACAAJ&dq=isbn:9780385347402&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Becoming_Steve_Jobs.html?hl=&id=5ZzfjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "DE",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "DE",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5ZzfjwEACAAJ&hl=&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Based on the highly popular 2012 cover story in Fast Company, an award-winning journalist and a veteran editor present a behind-the-scenes account of how Steve Jobs became the most famous and visionary CEO in history through interviews with ..."
+      }
+    }
+  ]
+}
